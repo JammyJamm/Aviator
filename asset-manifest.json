@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aviator/static/css/main.e6c13ad2.css",
+    "main.js": "/Aviator/static/js/main.0363ebb2.js",
+    "static/js/453.20359781.chunk.js": "/Aviator/static/js/453.20359781.chunk.js",
+    "index.html": "/Aviator/index.html",
+    "main.e6c13ad2.css.map": "/Aviator/static/css/main.e6c13ad2.css.map",
+    "main.0363ebb2.js.map": "/Aviator/static/js/main.0363ebb2.js.map",
+    "453.20359781.chunk.js.map": "/Aviator/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0363ebb2.js"
+  ]
+}
